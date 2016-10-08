@@ -18,6 +18,11 @@ Cartographer ROS Integration
 
 |build| |docs|
 
+安装使用说明,added by hitcm
+============
+可以参考我的中文博客
+http://www.cnblogs.com/hitcm/
+
 Purpose
 =======
 
@@ -54,8 +59,5 @@ at `our Contribution page`_.
     :scale: 100%
     :target: https://google-cartographer-ros.readthedocs.io/en/latest/?badge=latest
 
-安装使用说明,added by hitcm
-============
-可以参考我的中文博客
-http://www.cnblogs.com/hitcm/
+
 
