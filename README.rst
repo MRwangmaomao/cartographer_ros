@@ -18,9 +18,9 @@ Cartographer ROS Integration
 
 |build| |docs|
 
-安装使用说明,added by hitcm
+安装使用说明 
 ============
-可以参考我的中文博客
+可以参考作者的中文博客
 http://www.cnblogs.com/hitcm/
 
 Purpose
@@ -59,5 +59,19 @@ at `our Contribution page`_.
     :scale: 100%
     :target: https://google-cartographer-ros.readthedocs.io/en/latest/?badge=latest
 
+安装该代码参考博客：
+============
+
+https://blog.csdn.net/xmy306538517/article/details/81455625
 
 
+修改部分：
+============
+
+https://blog.csdn.net/xmy306538517/article/details/81455625
+
+
+rplidar slam:
+============
+
+https://blog.csdn.net/xmy306538517/article/details/81455625

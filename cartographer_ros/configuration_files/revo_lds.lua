@@ -17,8 +17,8 @@ include "map_builder.lua"
 options = {
   map_builder = MAP_BUILDER,
   map_frame = "map",
-  tracking_frame = "horizontal_laser_link",
-  published_frame = "horizontal_laser_link",
+  tracking_frame = "laser",
+  published_frame = "laser",
   odom_frame = "odom",
   provide_odom_frame = true,
   use_odometry_data = false,
